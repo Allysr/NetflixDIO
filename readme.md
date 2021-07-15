@@ -11,6 +11,6 @@
 <img height="300em" alt="Projeto" src="img/Ghibliflix.png"/>
 </p>
  
-<h4 align="center"><a href="allysr.github.io/netflix-dio/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="allysr.github.io/netflix-dio"/>Clique para visitar o projeto</a></h4>
 
 <h1>
