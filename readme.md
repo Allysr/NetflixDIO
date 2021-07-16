@@ -1,6 +1,6 @@
 
 <h1 align="center">
-<br>- Projeto Instagram -
+<br>- Projeto Netflix-
 </h1>
 
 <h4 align="center">
