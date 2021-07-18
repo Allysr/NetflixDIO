@@ -124,6 +124,12 @@ body {
     height: 40rem;
     width: 10rem;
   }
+  
+  .sinopse {
+    text-align: start;
+    margin-right: 5rem;
+  }
+
 }
 
 @media screen and (max-width: 1024px) {
