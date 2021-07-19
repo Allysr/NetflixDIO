@@ -8,9 +8,10 @@
 </h4>
 
 <p align="center">
+  
 <img height="300em" alt="Projeto" src="img/Ghibliflix.png"/>
 </p>
  
-<<h4 align="center"> <a href="https://allysr.github.io/Netflix-DIO/"/> Clique para visitar o projeto</h4>
+<h4 align="center"> <a href="https://allysr.github.io/Netflix-DIO/"/> Clique para visitar o projeto</h4>
 
 <h1>
