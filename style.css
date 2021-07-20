@@ -125,6 +125,10 @@ body {
     width: 10rem;
   }
   
+  .film_name {
+    text-align: center;
+  }
+  
   .sinopse {
     text-align: start;
     margin-right: 5rem;
@@ -135,6 +139,12 @@ body {
 @media screen and (max-width: 1024px) {
   * {
     font-size: 11px;
+  }
+  
+  .sinopse {
+    text-align: start;
+    margin-right: 5rem;
+    font-size: 13px;
   }
 
   .img_films {
