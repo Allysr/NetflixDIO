@@ -4,7 +4,7 @@
 </h1>
 
 <h4 align="center">
-  Feito para o Bootcamp da Digital Innovation One!
+  Mini projeto feito para o Bootcamp da Digital Innovation One!
 </h4>
 
 <p align="center">
